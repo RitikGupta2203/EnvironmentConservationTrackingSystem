@@ -1,0 +1,26 @@
+Habitat_Id,Sanctuary_Id,Habitat_Type,Habitat_Size,PH_Level,Soil_Fertility,Air_Purity,Humidity,Temperature,suitability
+1,1,Evergreen Forest,500.25,6.80,Rich Loam,25.50,70.20,22.50,UNSUITABLE
+2,2,Mountain Cave,800.30,7.20,Rocky Soil,21.80,65.50,18.70,UNSUITABLE
+3,3,Riverside Marshland,700.20,6.50,Silty Soil,28.30,75.00,24.00,UNSUITABLE
+4,4,Meadow Grassland,450.75,6.90,Fertile Soil,23.00,68.50,20.50,UNSUITABLE
+5,5,Coastal Mangrove,1000.50,7.50,Sandy Soil,26.50,72.80,23.20,UNSUITABLE
+6,6,Canyon Cliffs,1200.75,7.80,Loamy Soil,20.20,60.00,17.50,UNSUITABLE
+7,7,Plateau Grasslands,900.40,6.70,Silt Loam,24.80,71.50,21.80,UNSUITABLE
+8,8,Desert Oasis,650.60,7.00,Sandy Loam,29.50,78.20,26.00,UNSUITABLE
+9,9,Tropical Rainforest Canopy,1100.20,6.40,Humus-Rich Soil,22.50,67.50,19.50,UNSUITABLE
+10,10,Island Biotic Zone,750.80,7.30,Volcanic Soil,27.00,74.50,24.80,UNSUITABLE
+11,11,Grassland Prairie,500.45,6.60,Prairie Soil,23.80,69.20,21.00,UNSUITABLE
+12,12,Pine Forest Canopy,950.55,7.10,Coniferous Soil,21.00,64.80,18.20,UNSUITABLE
+13,13,Canyon Oasis,1300.90,7.40,Silty Sand,19.50,59.80,16.50,UNSUITABLE
+14,14,Lakefront Wetlands,850.35,6.80,Marshy Soil,25.20,70.80,22.00,UNSUITABLE
+15,15,Savannah Grasslands,800.25,7.20,Savannah Soil,20.70,63.50,17.80,UNSUITABLE
+16,16,Mountain Summit Alpine,700.70,6.50,Alpine Soil,27.50,76.00,25.20,UNSUITABLE
+17,17,Wooded Glade,450.80,6.90,Woodland Soil,23.50,68.00,20.00,UNSUITABLE
+18,18,Riverbank Ecosystem,600.95,7.70,Riverbank Soil,26.00,73.20,23.50,UNSUITABLE
+19,19,Biosphere Rainforest,950.40,6.30,Biosphere Soil,21.20,66.50,18.50,UNSUITABLE
+20,20,Polar Tundra,550.30,7.00,Tundra Soil,28.00,77.50,25.50,UNSUITABLE
+21,21,Wetland Biotic Zone,650.65,6.60,Wetland Soil,24.00,72.00,21.20,UNSUITABLE
+22,22,Cliffside Biotic Zone,900.20,7.30,Cliffside Soil,22.80,67.80,19.80,UNSUITABLE
+23,23,Golden Sands Coastal,1050.75,7.80,Sandy Loam,20.50,62.50,17.00,UNSUITABLE
+24,24,Antarctic Iceberg,1200.80,6.70,Iceberg Soil,19.00,59.00,16.20,UNSUITABLE
+25,25,High Altitude Plateau,1100.50,6.40,Plateau Soil,21.50,66.00,18.00,UNSUITABLE

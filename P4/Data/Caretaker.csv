@@ -1,0 +1,26 @@
+CARETAKER_ID,PLANT_CARE_SPECIALISATION,EDUCATION_LEVEL
+1,Ornamental Plants,Bachelors Degree
+2,Tropical Plants,Masters Degree
+3,Desert Plants,Bachelors Degree
+4,Aquatic Plants,College Diploma
+5,Ferns,PhD
+6,Cacti,Associate Degree
+7,Succulents,Bachelors Degree
+8,Herbs,Masters Degree
+9,Shrubs,High School Diploma
+10,Trees,Bachelors Degree
+11,Flowering Plants,College Diploma
+12,Grasses,Associate Degree
+13,Vines,PhD
+14,Edible Plants,Bachelors Degree
+15,Medicinal Plants,Masters Degree
+16,Orchids,Associate Degree
+17,Palms,High School Diploma
+18,Bonsai,Bachelors Degree
+19,Bulbs,College Diploma
+20,Fungi,Masters Degree
+21,Mosses,PhD
+22,Algae,Associate Degree
+23,Carnivorous Plants,Bachelors Degree
+24,Gymnosperms,High School Diploma
+25,Angiosperms,College Diploma
